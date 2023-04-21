@@ -1,0 +1,8 @@
+/* For toolbar of Angular Material */
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+span, button {
+    margin: 0 0.5rem;
+}
