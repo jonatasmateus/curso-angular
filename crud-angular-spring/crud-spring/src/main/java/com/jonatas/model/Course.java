@@ -1,4 +1,4 @@
-package com.jonatas.crudspring.model;
+package com.jonatas.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

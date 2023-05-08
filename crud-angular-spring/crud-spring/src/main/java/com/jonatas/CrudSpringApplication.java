@@ -1,12 +1,12 @@
-package com.jonatas.crudspring;
+package com.jonatas;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import com.jonatas.crudspring.model.Course;
-import com.jonatas.crudspring.repository.CourseRepository;
+import com.jonatas.model.Course;
+import com.jonatas.repository.CourseRepository;
 
 @SpringBootApplication
 public class CrudSpringApplication {
